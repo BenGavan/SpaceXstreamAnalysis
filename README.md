@@ -1,4 +1,4 @@
- Flight 5
+ IFT-5
  --------
  ![Alt text](/plt/flight5.png?raw=true "Flight 5 telemtry")
 
@@ -11,4 +11,3 @@
    - speed
  - plot
  - compare between each flight
- 
